@@ -1,115 +1,79 @@
 {
-    "users": [
-        {
-            "name": "Jeff Jacobson",
-            "email": "Georgiana.Schimmel@hotmail.com",
-            "id": "1"
-        },
-        {
-            "name": "Moses Murray",
-            "email": "Juvenal_MacGyver@gmail.com",
-            "id": "2"
-        },
-        {
-            "name": "Dexter Russel",
-            "email": "Henri37@hotmail.com",
-            "id": "3"
-        },
-        {
-            "name": "Tiffany Stamm",
-            "email": "Hal23@hotmail.com",
-            "id": "4"
-        },
-        {
-            "name": "Felipe West",
-            "email": "Freeman32@yahoo.com",
-            "id": "5"
-        }
-    ],
-    "auth": [
-        {
-            "name": "123",
-            "email": "123",
-            "dob": "1111-11-11",
-            "gender": "Female",
-            "rollnumber": "1111",
-            "department": "CSE",
-            "irc": "AWS",
-            "username": "123",
-            "password": "123",
-            "sip": "223.187.119.231",
-            "id": "1"
-        },
-        {
-            "name": "222",
-            "email": "222",
-            "dob": "2222-02-22",
-            "gender": "Female",
-            "rollnumber": "222",
-            "department": "AIDS",
-            "irc": "Agile",
-            "username": "222",
-            "password": "222",
-            "sip": "223.187.119.231",
-            "id": "2"
-        }
-    ],
-    "logtable": [
-        [
-            {
-                "date": "28-5-2023",
-                "students": 100,
-                "time": "20:07:51",
-                "id": "1"
-            },
-            {
-                "date": "28-5-2023",
-                "students": 83,
-                "time": "20:08:41",
-                "id": "2"
-            },
-            {
-                "date": "28-5-2023",
-                "students": 54,
-                "time": "20:10:36",
-                "id": "3"
-            },
-            {
-                "date": "28-5-2023",
-                "students": 15,
-                "time": "20:11:37",
-                "id": "4"
-            },
-            {
-                "date": "28-5-2023",
-                "students": 16,
-                "time": "20:31:35",
-                "id": "5"
-            },
-            {
-                "date": "3-6-2023",
-                "students": 2,
-                "time": "00:10:32",
-                "id": "6"
-            },
-            {
-                "date": "3-6-2023",
-                "students": 0,
-                "time": "00:11:40",
-                "id": "7"
-            },
-            {
-                "date": "17-6-2023",
-                "students": 2,
-                "time": "17:54:47",
-                "id": "8"
-            }
-        ]
-    ],
-    "data":[
-        {
-         "username": "max",
-         "password": "1811321"
-        }
-       ]
+  "users": [
+    {
+      "name": "Jeff Jacobson",
+      "email": "Georgiana.Schimmel@hotmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Moses Murray",
+      "email": "Juvenal_MacGyver@gmail.com",
+      "id": "2"
+    },
+    {
+      "name": "Dexter Russel",
+      "email": "Henri37@hotmail.com",
+      "id": "3"
+    },
+    {
+      "name": "Tiffany Stamm",
+      "email": "Hal23@hotmail.com",
+      "id": "4"
+    },
+    {
+      "name": "Felipe West",
+      "email": "Freeman32@yahoo.com",
+      "id": "5"
+    }
+  ],
+  "auth": [
+    {
+      "name": "123",
+      "email": "123",
+      "dob": "1111-11-11",
+      "gender": "Female",
+      "rollnumber": "1111",
+      "department": "CSE",
+      "irc": "AWS",
+      "username": "123",
+      "password": "123",
+      "sip": "223.187.119.231",
+      "id": "1"
+    },
+    {
+      "name": "222",
+      "email": "222",
+      "dob": "2222-02-22",
+      "gender": "Female",
+      "rollnumber": "222",
+      "department": "AIDS",
+      "irc": "Agile",
+      "username": "222",
+      "password": "222",
+      "sip": "223.187.119.231",
+      "id": "2"
+    }
+  ],
+  "logtable": [
+    [
+      {
+        "date": "28-5-2023",
+        "students": 100,
+        "time": "20:07:51",
+        "id": "1"
+      },
+      {
+        "date": "28-5-2023",
+        "students": 83,
+        "time": "20:08:41",
+        "id": "2"
+      }
+    ]
+  ],
+  "data": [
+    {
+      "username": "max",
+      "password": "1811321"
+    }
+  ]
 }
